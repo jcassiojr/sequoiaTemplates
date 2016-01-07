@@ -1,5 +1,5 @@
-# Sequoia Keynote Template
-This repository contains templates and example files (both keynote and .pdf) for my Sequoia Keynote Template. This is the template that I currently use for teaching and presenting research. The templates come in four colors - red, orange, green, and blue. Each color scheme has an alternate color scheme as well. The templates have been designed for high readability with projectors as well as accessibility for audience members who may have color blindness. 
+# Sequoia Keynote Templates
+This repository contains templates and example files (both keynote and .pdf) for my Sequoia Keynote Template. This is the template that I currently use for teaching and presenting research. It is based on the stock Modern Type template that ships with Keynote 6. The templates come in four colors - red, orange, green, and blue. Each color scheme has an alternate color scheme as well. The templates have been designed for high readability  as well as accessibility for audience members who may have color blindness. 
 
 
 ### About Christopher Prener, PhD
