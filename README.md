@@ -1,13 +1,24 @@
 # Sequoia Keynote Templates
-This repository contains templates and example files (both keynote and .pdf) for my Sequoia Keynote Template. This is the template that I currently use for teaching and presenting research. It is based on the stock Modern Type template that ships with Keynote 6. The templates come in four colors - red, orange, green, and blue. Each color scheme has an alternate color scheme as well. The templates have been designed for high readability  as well as accessibility for audience members who may have color blindness. 
 
+## Introduction
+This repository is for the `Sequoia` Apple Keynote template, which I use for my courses as well as conference presentations and other lectures. The template is (now loosely) inspired by the `Modern Type` template that ships with the current version of Apple Keynote. However, I have significantly modified it to fit my own style of organizing and presenting information.
 
-### About Christopher Prener, PhD
-Chris is currently a faculty member in the [Department of Sociology and Anthropology at Saint Louis University](http://www.slu.edu/department-of-sociology-and-anthropology). He is an urban and medical sociologist with an interest in mixed methods research designs that incorporate spatial data. His research interests are focused on the way cities and healthcare systems, particular emergency medical systems, are organized. Chris uses mixed-methods research approaches in most of my projects, blending qualitative, statistical, and geo-spatial research techniques. He is particularly interested in the use of novel administrative datasets that are too large for manual editing (i.e. "big data") to address social science research questions. 
+## Installation
+To use `Sequoia`, you will need to download this repository and double-click on each of the Keynote template files (`.kth`). At the prompt, choose "Add to Theme Chooser". Before opening the template, you also need to install the required fonts. There are three "normal" fonts that can be obtained for free:
 
+1. [Archivo](https://fonts.google.com/specimen/Archivo)
+2. [Archivo Narrow](https://fonts.google.com/specimen/Archivo+Narrow)
+3. [Computer Modern](https://www.fontsquirrel.com/fonts/computer-modern)
 
-### Contact
-- [on the web](http://www.chrisprener.net)
-- [on github](http://chris-prener.github.io/)
-- email - [prenercg@slu.edu](mailto:prenercg@slu.edu)
-- twitter - [@chrisprener](https://twitter.com/chrisprener)
+Additionally, there are two icon sets that should be downloaded for free:
+
+1. [Academicons](https://jpswalsh.github.io/academicons/)
+2. [FontAwesome v5 Free Version](https://fontawesome.com)
+
+## Features
+
+### Themes
+`Sequoia` is comprised of six identical color schemes, each of which varies based on the primary and alternate color palettes employed. The primary color palette has a dark background with light fonts, while the alternate palette has a light background with dark fonts.
+
+### Opinionated Organization
+The templates have an opinionated approach to lecture organization that they are based on. Lectures, in general, should begin with a title slide that clearly introduces you and your topic. They should also have an agenda slide that lays out, in a linear fashion, what the lecture will cover. For teaching, after the agenda I lead with "Front Matter" that updates students on any administrative matters, due dates, and announcements. These are repeated, along with a review of the agenda, in a "Back Matter" section at the end of the lecture.
